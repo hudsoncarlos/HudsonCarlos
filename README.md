@@ -8,6 +8,13 @@
   <a href="https://github.com/HudsonCarlos">
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=7&theme=dark"/>
+   
+   <a href="https://github.com/HudsonCarlos/github-readme-stats">     
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HudsonCarlos&repo=github-readme-stats&theme=material-palenight" />
+   </a>    
+   <a href="https://github.com/anuraghazra/HudsonCarlos.github.io">
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HudsonCarlos&repo=anuraghazra.github.io&theme=material-palenight" />
+   </a>
 </div>
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Hudson-Csharp" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
@@ -29,13 +36,6 @@
 </div>
  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+
 
 

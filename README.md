@@ -7,14 +7,7 @@
  <div>
   <a href="https://github.com/HudsonCarlos">
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=7&theme=dark"/>
-   
-   <a href="https://github.com/HudsonCarlos/github-readme-stats">     
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HudsonCarlos&repo=github-readme-stats&theme=material-palenight" />
-   </a>    
-   <a href="https://github.com/anuraghazra/HudsonCarlos.github.io">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HudsonCarlos&repo=anuraghazra.github.io&theme=material-palenight" />
-   </a>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=7&theme=dark"/>   
 </div>
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Hudson-Csharp" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
@@ -31,7 +24,7 @@
   <a href = "mailto:hudsonscarlos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/HudsonCarlos/HudsonCarlos/blob/output/github-contribution-grid-snake.svg)
+  [![Snake animation](https://github.com/HudsonCarlos/HudsonCarlos/blob/output/github-contribution-grid-snake.svg)](url)
  
 </div>
  

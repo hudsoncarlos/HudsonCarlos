@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/HudsonCarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Hudson-Csharp" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
@@ -18,6 +18,8 @@
   <code><img align="center" alt="Hudson-React" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 </div>
  
+ ##
+ 
 <div>  
   <a href = "mailto:hudsonscarlos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -26,16 +28,6 @@
  
 </div>
  
- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
-</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

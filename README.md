@@ -1,8 +1,8 @@
 ### Hi there, I'm Hudson Carlos 👋
 
-- 🔭 I’m currently working on .Net.
+- 🔭 I’m currently working with .Net.
 - 🌱 I’m currently learning Software Architecture, Kubernetes, Grafana, Docker, Azure DevOps.
-- 🤔 I’m looking for help with Speak English, Design Patterns, Observability.
+- 🤔 I'm in need of help with Design Patterns, Observability and Speaking English.
 
  <div>
   <a href="https://github.com/HudsonCarlos">

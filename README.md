@@ -97,8 +97,7 @@
   <img title="Hudson CONFLUENCE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
   <img title="Hudson DJANGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img title="Hudson EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img title="Hudson FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img title="Hudson FOUNDATION" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/foundation/foundation-original.svg">  
+  <img title="Hudson FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">  
   <img title="Hudson HEROKU" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img title="Hudson IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img title="Hudson JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -169,8 +168,9 @@
   <img title="Hudson ERLANG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg"> 
   <img title="Hudson FEATHERSJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/feathersjs/feathersjs-original.svg">
   <img title="Hudson FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img title="Hudson FLASK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img title="Hudson FLASK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">  
   <img title="Hudson FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img title="Hudson FOUNDATION" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/foundation/foundation-original.svg">  
   <img title="Hudson FSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">
   <img title="Hudson GATLING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
   <img title="Hudson GATSBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg">

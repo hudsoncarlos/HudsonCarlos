@@ -312,4 +312,3 @@
     console.log('<img title="Hudson '+nameUpper+'" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/'+item.name+'/'+item.name+'-'+item.versions.svg[0]+'.svg">')
 })
 -->
-

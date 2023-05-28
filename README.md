@@ -7,13 +7,13 @@
 ##
 
  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+  <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
    <img height="180em" 
        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   </a>
-  <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+  <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
    <img height="180em" 
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=7&theme=dark">
+        src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=20&theme=dark">
   </a>
 </div>
   
@@ -21,7 +21,7 @@
 ### - 🔨 I'm working
  
 <div>
-  <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+  <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
    <img title="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img title="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
    <img title=".Net Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -69,7 +69,7 @@
 ### - ✔ I worked
 
 <div>
- <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+ <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
   <img title="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
   <img title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   <img title="APACHE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
@@ -82,7 +82,7 @@
 ### - 👨‍🎓💡 I studied
 
 <div>
- <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+ <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
   <img title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="AngulaJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
@@ -123,7 +123,7 @@
 ### - 🍍🏃‍🤪😵 I've never seen
 
 <div>
- <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+ <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
   <img title="ADONISJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
   <img title="AFTEREFFECTS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   <img title="AARCH64" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg">
@@ -288,7 +288,7 @@
   <a href = "mailto:hudsonscarlos@outlook.com">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+  <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  

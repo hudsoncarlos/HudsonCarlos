@@ -8,12 +8,10 @@
 
  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
-   <img height="180em" 
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&include_all_commits=true&count_private=true">
   </a>
   <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
-   <img height="180em" 
-        src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=20&theme=dark">
+   <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=HudsonCarlos&layout=compact&langs_count=20">
   </a>
 </div>
   
@@ -31,7 +29,7 @@
    <img title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img title="BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img title="Sql Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
-   <img title="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+   <img title="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">      
    <img title="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img title="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img title="Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"> 
@@ -62,6 +60,12 @@
    <img title="TWITTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">  
    <img title="TRELLO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
    <img title="GOOGLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+   <img title="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+   <img title="BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+   <img title="GATLING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
+   <img title="NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+   <img title="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">  
+   <img title="SCALA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
   </a>
 </div>
 
@@ -70,11 +74,19 @@
 
 <div>
  <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
+  <img title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img title="AngulaJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img title="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  
   <img title="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
   <img title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   <img title="APACHE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img title="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img title="WOOCOMMERCE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
+  <img title="REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">  
+  <img title="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img title="YARN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
  </a>
 </div>
 
@@ -82,13 +94,8 @@
 ### - 👨‍🎓💡 I studied
 
 <div>
- <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">
-  <img title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="AngulaJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img title="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img title="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">  
-  <img title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  
+ <a href="https://www.linkedin.com/in/hudsonscarlos/" target="_blank">  
+  <img title="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">    
   <img title="ANDROID" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img title="ARDUINO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img title="CANVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">    
@@ -104,18 +111,34 @@
   <img title="JETBRAINS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
   <img title="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
   <img title="LESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
-  <img title="NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img title="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img title="NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
   <img title="OPERA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opera/opera-original.svg">
   <img title="PHPSTORM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
   <img title="ORACLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img title="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="RASPBERRYPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"> 
-  <img title="REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">  
-  <img title="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img title="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">  
-  <img title="YARN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+  <img title="PYCHARM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img title="RASPBERRYPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">   
   <img title="GITLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"> 
+  <img title="FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img title="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> 
+  <img title="ARDUINO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img title="DART" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img title="ERLANG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg"> 
+  <img title="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img title="FLASK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">  
+  <img title="FSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">
+  <img title="GOOGLECLOUD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img title="GRAPHQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  <img title="NESTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img title="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img title="ATOM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
+  <img title="INTELLIJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img title="KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img title="LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  <img title="PERL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
+  <img title="PHOTOSHOP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img title="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img title="VUESTOREFRONT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuestorefront/vuestorefront-original.svg">
  </a>
 </div>
 
@@ -131,11 +154,8 @@
   <img title="APPCELERATOR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appcelerator/appcelerator-original.svg">
   <img title="APPLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img title="APPWRITE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg">
-  <img title="ARDUINO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img title="ATOM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
   <img title="BABEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
-  <img title="BACKBONEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg">
-  <img title="BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img title="BACKBONEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg">  
   <img title="BEHANCE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg">
   <img title="BITBUCKET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img title="BULMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
@@ -153,8 +173,7 @@
   <img title="CPLUSPLUS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img title="CUCUMBER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
   <img title="CRYSTAL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg">
-  <img title="D3JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg">
-  <img title="DART" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img title="D3JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg">  
   <img title="DENOJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
   <img title="DEVICON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg">
   <img title="DOCTRINE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg">
@@ -165,23 +184,14 @@
   <img title="ELM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg">
   <img title="EMBER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg">
   <img title="EMBEDDEDC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
-  <img title="ERLANG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg"> 
-  <img title="FEATHERSJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/feathersjs/feathersjs-original.svg">
-  <img title="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img title="FLASK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">  
-  <img title="FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img title="FEATHERSJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/feathersjs/feathersjs-original.svg">   
   <img title="FOUNDATION" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/foundation/foundation-original.svg">  
-  <img title="FSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">
-  <img title="GATLING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatling/gatling-plain.svg">
   <img title="GATSBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg">
   <img title="GCC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
   <img title="GIMP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
   <img title="GITTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitter/gitter-plain.svg">
-  <img title="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> 
-  <img title="GOOGLECLOUD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img title="GRADLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
   <img title="GRAILS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg">
-  <img title="GRAPHQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img title="GROOVY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
   <img title="GRUNT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg">
   <img title="GULP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
@@ -191,7 +201,6 @@
   <img title="HAXE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg">
   <img title="ILLUSTRATOR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
   <img title="INKSCAPE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
-  <img title="INTELLIJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img title="JAMSTACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg">
   <img title="JASMINE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
   <img title="JEET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jeet/jeet-original.svg">
@@ -199,11 +208,9 @@
   <img title="JULIA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
   <img title="JUPYTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img title="KARMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
-  <img title="KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img title="KNOCKOUT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
   <img title="KRAKENJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/krakenjs/krakenjs-original.svg">
-  <img title="LABVIEW" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg">
-  <img title="LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  <img title="LABVIEW" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg">  
   <img title="MATERIALUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img title="MATLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img title="MAGENTO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
@@ -214,8 +221,6 @@
   <img title="MODX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/modx/modx-original.svg">
   <img title="MOODLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg">
   <img title="NEO4J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
-  <img title="NESTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img title="NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img title="NIXOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg">
   <img title="NODEWEBKIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodewebkit/nodewebkit-original.svg">
   <img title="NUMPY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
@@ -224,16 +229,12 @@
   <img title="OCAML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
   <img title="OPENGL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
   <img title="PANDAS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img title="PERL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
   <img title="PHALCON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg">
-  <img title="PHOTOSHOP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img title="PREMIEREPRO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
   <img title="PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
   <img title="PROTRACTOR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain.svg">
-  <img title="PYCHARM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
   <img title="PHOENIX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
   <img title="QT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
-  <img title="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img title="RAILS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img title="REDHAT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
   <img title="ROCKSDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocksdb/rocksdb-plain.svg">
@@ -242,8 +243,6 @@
   <img title="RUST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img title="SALESFORCE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
   <img title="RSTUDIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img title="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img title="SCALA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
   <img title="SEQUELIZE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
   <img title="SHOPWARE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopware/shopware-original.svg">
   <img title="SKETCH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
@@ -270,8 +269,7 @@
   <img title="TYPO3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typo3/typo3-original.svg">
   <img title="UNITY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img title="UWSGI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg">
-  <img title="VAGRANT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
-  <img title="VUESTOREFRONT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuestorefront/vuestorefront-original.svg">
+  <img title="VAGRANT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">  
   <img title="WEBLATE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/weblate/weblate-original.svg">
   <img title="WEBPACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
   <img title="WEBSTORM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">

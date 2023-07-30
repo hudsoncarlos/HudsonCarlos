@@ -109,6 +109,7 @@
   <img title="IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img title="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="JETBRAINS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
+  <img title="CAKEPHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
   <img title="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
   <img title="LESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   <img title="NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
@@ -160,7 +161,6 @@
   <img title="BITBUCKET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img title="BULMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
   <img title="BOWER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bower/bower-original.svg">
-  <img title="CAKEPHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
   <img title="CENTOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
   <img title="CEYLON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
   <img title="CIRCLECI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
